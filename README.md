@@ -18,4 +18,4 @@ A script ( rhel8_storage.sh ) that contains all managamenet commands ( dynamical
 * Filesystems
 
 
-*Creator : Youssef Sbai Idrissi, Mars 2020*
+*Creator : Youssef Sbai Idrissi, 2020*
