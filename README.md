@@ -16,3 +16,6 @@ A script ( rhel8_storage.sh ) that contains all managamenet commands ( dynamical
 * Volume Groups
 * Logical Volumes
 * Filesystems
+
+
+*Creator : Youssef Sbai Idrissi, Mars 2020*
