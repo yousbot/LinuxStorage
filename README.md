@@ -17,5 +17,8 @@ A script ( *rhel8_storage.sh* ) that contains all managamenet commands ( dynamic
 * Logical Volumes
 * Filesystems
 
+The following schema describes the storage layer of Redhat
+![Redhat Storage](https://wiki.zikossworld.com/lib/exe/fetch.php?media=informatique:linux:lvm.jpg)
+
 
 *Creator : Youssef Sbai Idrissi, 2020*
